@@ -20,27 +20,6 @@ This Streamlit app is designed to classify Iris flower species 🌺 based on the
 
 The app is built using the **Scikit-Learn** library for machine learning and **Streamlit** for the user interface. It takes input from the user for various flower dimensions and predicts the species using a Naive Bayes classifier.
 
-## 🚀 Getting Started
-
-To run this app locally, follow these steps:
-
-1. 🌀 Clone the repository: 
-    ```
-    git clone https://github.com/xd7fx/iris-classification-app.git
-    ```
-2. 📂 Navigate to the project folder: 
-    ```
-    cd iris-classification-app
-    ```
-3. 📥 Install the required packages: 
-    ```
-    pip install -r requirements.txt
-    ```
-4. ▶️ Run the Streamlit app: 
-    ```
-    streamlit run app.py
-    ```
-
 ## 📚 Further Reading
 
 To learn more about the algorithms and techniques used in this project, check out these resources:
