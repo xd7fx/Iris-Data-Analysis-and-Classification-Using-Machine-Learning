@@ -47,4 +47,4 @@ To learn more about the algorithms and techniques used in this project, check ou
 - 📜 [Streamlit Documentation](https://docs.streamlit.io/)
 - 📘 [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - 📙 [Naive Bayes Classification](https://scikit-learn.org/stable/modules/naive_bayes.html)
-- 🌐 [Iris Dataset]([https://archive.ics.uci.edu/ml/datasets/iris](https://github.com/xd7fx/Iris-Data-Analysis-and-Classification-Using-Machine-Learning/blob/master/IRIS.csv))
+- 🌐 [Iris Dataset](https://github.com/xd7fx/Iris-Data-Analysis-and-Classification-Using-Machine-Learning/blob/master/IRIS.csv)
