@@ -6,7 +6,7 @@ This Streamlit app is designed to classify Iris flower species 🌺 based on the
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-machine-learning.streamlit.app)
 
-![image](https://github.com/user-attachments/assets/2439e903-f360-4b58-afd7-9b208f1ec042)
+![image](https://github.com/user-attachments/assets/95ed73a1-e999-44e2-a184-b8d45210e96e)
 
 
 ## 🚀 GitHub Codespaces
